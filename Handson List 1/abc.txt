@@ -1,0 +1,2 @@
+total 4
+393992 drwxrwxr-x 2 meet meet 4096 Aug  9 10:29 lab1
